@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @north-tower
-- 👀 I’m interested in data science and everything machine learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mike Ndegwa
+- 👀 I’m interested in Web Development and everything React
+- 🌱 I’m currently learning Next.js
+- 📫 How to reach me linkedin https://www.linkedin.com/in/mike-ndegwa
 
 
 
