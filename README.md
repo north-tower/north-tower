@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike Ndegwa
+- 👋 Hi, I’m Mike Munene
 - 👀 I’m interested in Web Development and everything React
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me linkedin https://www.linkedin.com/in/mike-ndegwa
