@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Next.js, TypeScript, and advanced React patterns
 - 💼 I work with: React, Next.js, Python, FastAPI, Node.js, NestJS, R, and more
 - 🌍 Based in Nairobi, Kenya - Adventurer at heart 🌴
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/mike-ndegwa
+- 📫 How to reach me: LinkedIn www.linkedin.com/in/mike-munene-28657a228
 
 ### 💻 Tech Stack
 Frontend: React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind  
