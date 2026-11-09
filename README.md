@@ -24,6 +24,6 @@ Full-stack developer in Nairobi 🇰🇪, building under **NorthStack**. I ship 
 | [budget-bliss-planner](https://github.com/north-tower/budget-bliss-planner) | 50/30/20 budgeting app built with React + Vite + TypeScript. | React + Vite + TypeScript |
 
 ## Get in touch
-🌐 [Portfolio](https://bug-free-guide-three.vercel.app) • 💼 [LinkedIn](https://linkedin.com/in/mike-ndegwa) • ✉️ [your-email@example.com](mailto:your-email@example.com)
+🌐 [Portfolio](https://bug-free-guide-three.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/mike-munene-28657a228) • ✉️ [muneshmyke@gmail.com](mailto:muneshmyke@gmail.com)
 
 *Open to interesting problems in fintech and automation.*
